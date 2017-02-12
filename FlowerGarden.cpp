@@ -1,4 +1,5 @@
 //https://community.topcoder.com/stat?c=problem_statement&pm=1918&rd=5006
+//拓扑排序，每次选择最大的就好了
 #include <stdio.h>
 #include <iostream>
 #include <string.h>
